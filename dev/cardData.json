@@ -1,1 +1,214 @@
-{}
+{
+    "LSCR_SK001_R": [
+        {
+            "cardName": "$customEmoji[grade_R] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/1.png",
+            "cardCode": "LSCR_SK001",
+            "cardGame": "$customEmoji[grade_R] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "LSCR_SK001_S": [
+        {
+            "cardName": "$customEmoji[grade_S] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/2.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[grade_S] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 2000,
+        }
+    ],
+
+    "LSCR_SK001_A": [
+        {
+            "cardName": "$customEmoji[grade_A] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/3.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[grade_A] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 750
+        }
+    ],
+
+    "LSCR_SK001_B": [
+        {
+            "cardName": "$customEmoji[grade_B] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/4.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[grade_B] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 250,
+            "cardMax": 500
+        }
+    ],
+
+    "LSCR_SK001_C": [
+        {
+            "cardName": "$customEmoji[grade_C] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/5.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[grade_C] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 150,
+            "cardMax": 0
+        }
+    ],
+
+  {
+    "LSCR_SK001_R": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_R] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/6.png",
+            "cardCode": "LSCR_SK001",
+            "cardGame": "$customEmoji[prism]$customEmoji[grade_R] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "LSCR_SK001_S": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_S] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/7.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_S] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 2000
+        }
+    ],
+
+    "LSCR_SK001_A": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_A] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/8.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_A] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 750
+        }
+    ],
+
+    "LSCR_SK001_B": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_B] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/9.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_B] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 250,
+            "cardMax": 500
+        }
+    ],
+
+    "LSCR_SK001_C": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_C] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/10.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_C] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 150,
+            "cardMax": 0
+        }
+    ],
+
+  {
+    "LSCR_SK002_R": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_R] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/6.png",
+            "cardCode": "LSCR_SK001",
+            "cardGame": "$customEmoji[prism]$customEmoji[grade_R] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 4000,
+            "cardMax": 6000
+        }
+    ],
+
+    "LSCR_SK002_S": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_S] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/7.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_S] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 4000
+        }
+    ],
+
+    "LSCR_SK002_A": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_A] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/8.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_A] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 1500
+        }
+    ],
+
+    "LSCR_SK002_B": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_B] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/9.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_B] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 1000
+        }
+    ],
+
+    "LSCR_SK002_C": [
+        {
+            "cardName": "$customEmoji[prism]$customEmoji[grade_C] **LE SSERAFIM : CRAZY** SAKURA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_sakura.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/10.png",
+            "cardCode": "LSCR_SK001",
+            "cardGuess": "$customEmoji[prism]$customEmoji[grade_C] **LE SSERAFIM : CRAZY** SAKURA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 300,
+            "cardMax": 100
+        }
+    ]
+  
+}
