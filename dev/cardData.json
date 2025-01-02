@@ -138,6 +138,530 @@
             "cardMin": 300,
             "cardMax": 100
         }
+    ],
+    
+    "LSCR_KC001_R": [
+        {
+            "cardName": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/11.png",
+            "cardCode": "LSCR_KC001",
+            "cardGame": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "LSCR_KC001_S": [
+        {
+            "cardName": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/12.png",
+            "cardCode": "LSCR_KC001",
+            "cardGuess": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 2000
+        }
+    ],
+    "LSCR_KC001_A": [
+        {
+            "cardName": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/13.png",
+            "cardCode": "LSCR_KC001",
+            "cardGuess": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 750
+        }
+    ],
+    "LSCR_KC001_B": [
+        {
+            "cardName": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/14.png",
+            "cardCode": "LSCR_KC001",
+            "cardGuess": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 250,
+            "cardMax": 500
+        }
+    ],
+    "LSCR_KC001_C": [
+        {
+            "cardName": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/15.png",
+            "cardCode": "LSCR_KC001",
+            "cardGuess": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 150,
+            "cardMax": 0
+        }
+    ],
+    "LSCR_KC002_R": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/16.png",
+            "cardCode": "LSCR_KC002",
+            "cardGame": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 4000,
+            "cardMax": 6000
+        }
+    ],
+    "LSCR_KC002_S": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/17.png",
+            "cardCode": "LSCR_KC002",
+            "cardGuess": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 4000
+        }
+    ],
+    "LSCR_KC002_A": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/18.png",
+            "cardCode": "LSCR_KC002",
+            "cardGuess": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 1500
+        }
+    ],
+    "LSCR_KC002_B": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/19.png",
+            "cardCode": "LSCR_KC002",
+            "cardGuess": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 1000
+        }
+    ],
+    "LSCR_KC002_C": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KIM CHAEWON | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kimchaewon.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/20.png",
+            "cardCode": "LSCR_KC002",
+            "cardGuess": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KIM CHAEWON",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 300,
+            "cardMax": 100
+        }
+    ],
+
+    "LSCR_HY001_R": [
+        {
+            "cardName": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/21.png",
+            "cardCode": "LSCR_HY001",
+            "cardGame": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "LSCR_HY001_S": [
+        {
+            "cardName": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/22.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 2000
+        }
+    ],
+    "LSCR_HY001_A": [
+        {
+            "cardName": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/23.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 750
+        }
+    ],
+    "LSCR_HY001_B": [
+        {
+            "cardName": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/24.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 250,
+            "cardMax": 500
+        }
+    ],
+    "LSCR_HY001_C": [
+        {
+            "cardName": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/25.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 150,
+            "cardMax": 0
+        }
+    ],
+    "LSCR_HY002_R": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/26.png",
+            "cardCode": "LSCR_HY001",
+            "cardGame": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 4000,
+            "cardMax": 6000
+        }
+    ],
+    "LSCR_HY002_S": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/27.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 4000
+        }
+    ],
+    "LSCR_HY002_A": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/28.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 1500
+        }
+    ],
+    "LSCR_HY002_B": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/29.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 1000
+        }
+    ],
+    "LSCR_HY002_C": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HUH YUNJIN | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_huhyunjin.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/30.png",
+            "cardCode": "LSCR_HY001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HUH YUNJIN",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 300,
+            "cardMax": 100
+        }
+    ],
+
+    "LSCR_KZ001_R": [
+        {
+            "cardName": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/31.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGame": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "LSCR_KZ001_S": [
+        {
+            "cardName": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/32.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 2000
+        }
+    ],
+    "LSCR_KZ001_A": [
+        {
+            "cardName": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/33.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 750
+        }
+    ],
+    "LSCR_KZ001_B": [
+        {
+            "cardName": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/34.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 250,
+            "cardMax": 500
+        }
+    ],
+    "LSCR_KZ001_C": [
+        {
+            "cardName": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/35.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 150,
+            "cardMax": 0
+        }
+    ],
+    "LSCR_KZ002_R": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/36.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGame": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 4000,
+            "cardMax": 6000
+        }
+    ],
+    "LSCR_KZ002_S": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/37.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 4000
+        }
+    ],
+    "LSCR_KZ002_A": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/38.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 1500
+        }
+    ],
+    "LSCR_KZ002_B": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/39.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 1000
+        }
+    ],
+    "LSCR_KZ002_C": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KAZUHA | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_kazuha.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/40.png",
+            "cardCode": "LSCR_KZ001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** KAZUHA",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 300,
+            "cardMax": 100
+        }
+    ],
+
+    "LSCR_HE001_R": [
+        {
+            "cardName": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/41.png",
+            "cardCode": "LSCR_HE001",
+            "cardGame": "<:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "LSCR_HE001_S": [
+        {
+            "cardName": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/42.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 2000
+        }
+    ],
+    "LSCR_HE001_A": [
+        {
+            "cardName": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/43.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 750
+        }
+    ],
+    "LSCR_HE001_B": [
+        {
+            "cardName": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/44.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 250,
+            "cardMax": 500
+        }
+    ],
+    "LSCR_HE001_C": [
+        {
+            "cardName": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/45.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 150,
+            "cardMax": 0
+        }
+    ],
+    "LSCR_HE002_R": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_r_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/46.png",
+            "cardCode": "LSCR_HE001",
+            "cardGame": "<:prism:1323995067446333501><:grade_R:1284800549245419562> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 4000,
+            "cardMax": 6000
+        }
+    ],
+    "LSCR_HE002_S": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_s_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/47.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_S:1284800573249556522> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 2000,
+            "cardMax": 4000
+        }
+    ],
+    "LSCR_HE002_A": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_a_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/48.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_A:1284800600466395188> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 1000,
+            "cardMax": 1500
+        }
+    ],
+    "LSCR_HE002_B": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_b_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/49.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_B:1284800620901044246>  **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 500,
+            "cardMax": 1000
+        }
+    ],
+    "LSCR_HE002_C": [
+        {
+            "cardName": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HONG EUNCHAE | Chasing Lightning",
+            "cardSmall": "https://ik.imagekit.io/ssrh/resources/images/card/le_sserafim/chasing_lightning/cl/c_l_hongeunchae.png?tr=lo-true,w-92:l-image,i-resources@@images@@card@@ced_basic_c_Collection.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/ssrh/tr:lo-true/resources/images/card/le_sserafim/chasing_lightning/50.png",
+            "cardCode": "LSCR_HE001",
+            "cardGuess": "<:prism:1323995067446333501><:grade_C:1284800642459893812> **LE SSERAFIM : CRAZY** HONG EUNCHAE",
+            "cardSong": "Chasing Lightning",
+            "cardGroup": "LE SSERAFIM",
+            "cardMin": 300,
+            "cardMax": 100
+        }
     ]
   
 }
